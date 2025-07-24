@@ -1,0 +1,105 @@
+/* Basic Styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  overflow-x: hidden;
+}
+
+/* Background */
+.bg-image {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('bg.jpg') no-repeat center center/cover;
+  z-index: -1;
+}
+
+/* Main Content */
+.main-content {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+}
+
+/* Profile */
+.profile-pic {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  border: 4px solid #00d1ff;
+  margin-bottom: 20px;
+  box-shadow: 0 0 15px rgba(0, 209, 255, 0.5);
+  object-fit: cover;
+}
+
+header h1 {
+  font-size: 36px;
+  color: #00d1ff;
+}
+
+header h3 {
+  color: #ffffff;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+/* About Section */
+.about-card {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 25px;
+  border-radius: 12px;
+  text-align: left;
+  margin-top: 20px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+.about-card h2 {
+  color: #00d1ff;
+  margin-bottom: 15px;
+}
+
+.about-card p {
+  margin-bottom: 12px;
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+/* Toggle Button */
+.btn-center {
+  margin: 10px 0;
+}
+button {
+  padding: 10px 20px;
+  background-color: #00d1ff;
+  color: black;
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+button:hover {
+  background-color: #00b4d8;
+}
+
+.social-links a {
+  margin: 0 10px;
+  color: #cbd5e1;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #facc15;
+  text-shadow: 0 0 5px #facc15;
+}
