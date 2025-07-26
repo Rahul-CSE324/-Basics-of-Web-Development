@@ -27,6 +27,6 @@ Email:
 2004rahuld@gmail.com
 
 LinkedIn:      
-<a href="https://www.linkedin.com/in/rahul-das-2770a9330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/rahul-das-2770a9330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">RAHUL DAS</a>
 
 
