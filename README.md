@@ -11,9 +11,6 @@ This repository contains all the core projects, practice files, and demos I buil
 - ⚙️ JavaScript: DOM Manipulation, Event Handling, Basic Logic
 - 🧠 Mini Projects: 
   - Portfolio website
-  - Interactive To-Do list
-  - Quiz Application
-  - Product Listing with filtering
 
 ## 🛠 Technologies Used
 
